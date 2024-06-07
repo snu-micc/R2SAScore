@@ -1,4 +1,4 @@
-# RB-SAScore
+# BR-SAScore
 Implementation of BR-SAScore developed by Prof. Yousung Jung group at Seoul National University (contact: yousung@gmail.com).
 
 ## Contents
