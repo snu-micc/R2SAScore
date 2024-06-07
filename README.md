@@ -1,5 +1,5 @@
 # RB-SAScore
-Implementation of RB-SAScore developed by Prof. Yousung Jung group at Seoul National University (contact: yousung@gmail.com).
+Implementation of BR-SAScore developed by Prof. Yousung Jung group at Seoul National University (contact: yousung@gmail.com).
 
 ## Contents
 - [Developer](#developer)
@@ -26,8 +26,8 @@ This repository has been tested on both **Linux** and **Windows** operating syst
 ## Installation Guide
 ### From Github
 ```
-git clone https://github.com/snu-micc/RB-SAScore.git
-cd RB-SAScore
+git clone https://github.com/snu-micc/BR-SAScore.git
+cd BR-SAScore
 pip install -e .
 ```
 
