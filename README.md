@@ -1,5 +1,5 @@
-# R2SAScore
-Implementation of R2SAScore developed by Prof. Yousung Jung group at Seoul National University (contact: yousung@gmail.com).
+# RB-SAScore
+Implementation of RB-SAScore developed by Prof. Yousung Jung group at Seoul National University (contact: yousung@gmail.com).
 
 ## Contents
 - [Developer](#developer)
@@ -24,15 +24,10 @@ This repository has been tested on both **Linux** and **Windows** operating syst
 * rdkit (version >= 2019)
 
 ## Installation Guide
-### From pip
-```
-pip install R2SAScore
-```
-
 ### From Github
 ```
-git clone https://github.com/snu-micc/R2SAScore.git
-cd R2SAScore
+git clone https://github.com/snu-micc/RB-SAScore.git
+cd RB-SAScore
 pip install -e .
 ```
 
